@@ -20,7 +20,7 @@ Numbering.AddNumbering(2);
 
 Console.WriteLine("Enter [Exit] for break");
 
-void Words()
+void ConnectWords()
 {
     StringBuilder Result = new StringBuilder();
 
@@ -38,7 +38,7 @@ void Words()
     Console.WriteLine(Result);
 }
 
-Words();
+ConnectWords();
 
 //#3
 
