@@ -18,6 +18,7 @@ Console.WriteLine(CheckDay());
 //#2
 Numbering.AddNumbering(2);
 
+Console.WriteLine("Enter [Exit] for break");
 
 void Words()
 {
